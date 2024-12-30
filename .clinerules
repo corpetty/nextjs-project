@@ -1,0 +1,51 @@
+# Project: Cryptocurrency Portfolio Management App
+
+## Technology Stack
+- Next.js for frontend and server-side rendering
+- Payload CMS for content management
+
+## Code Style
+- Use ESLint for JavaScript/TypeScript linting
+- Use Prettier for code formatting
+- Follow AirBnB JavaScript Style Guide
+
+## Git Practices
+- Use feature branches for development
+- Write clear, concise commit messages
+- Squash commits before merging to main branch
+
+## Testing
+- Write unit tests for all components and functions
+- Aim for at least 80% code coverage
+
+## Documentation
+- Document all major functions and components
+- Keep FURPS.md and what-is-this.md up to date
+- Document API endpoints and data models
+
+## Security
+- Follow OWASP security guidelines
+- Implement proper authentication and authorization
+- Encrypt sensitive data, especially related to cryptocurrency keys and addresses
+
+## Performance
+- Optimize for fast loading times
+- Implement efficient data fetching and caching strategies
+
+## Accessibility
+- Follow WCAG 2.1 guidelines
+- Ensure the app is usable with keyboard navigation
+
+## Responsive Design
+- Ensure the app works well on desktop, tablet, and mobile devices
+
+## Version Control
+- Use semantic versioning (SemVer) for releases
+
+## Deployment
+- Set up CI/CD pipeline for automated testing and deployment
+- Use environment variables for configuration
+
+## Maintenance
+- Regularly update dependencies
+- Monitor and address technical debt
